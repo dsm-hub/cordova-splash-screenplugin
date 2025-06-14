@@ -1,0 +1,20 @@
+{
+  "name": "cordova-video-splashscreen",
+  "displayName": "SplashScreenVideo",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "cordova": {
+    "id": "cordova-video-splashscreen",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "wissem ben aicha",
+  "license": "ISC"
+}

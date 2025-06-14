@@ -1,2 +1,2 @@
-# cordova-splash-screenplugin
-this plugin is for Splashscreen plugin
+# Cordova video splashscreen
+
